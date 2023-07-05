@@ -1,3 +1,3 @@
 # FlightControlor
- This is the flightcontrolor for Magnusplan, we use Aruduino Mega2560 as our control pannel.
+ This is the flightcontrolor for Magnus plan, we use Aruduino Mega2560 as our control pannel.
  
